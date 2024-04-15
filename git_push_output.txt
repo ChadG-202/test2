@@ -1,3 +1,0 @@
-No refs in common and none specified; doing nothing.
-Perhaps you should specify a branch.
-Everything up-to-date
